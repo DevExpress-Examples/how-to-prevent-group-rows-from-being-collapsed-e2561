@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataSource.cs](./CS/Prevent Group from Collapsing/DataSource.cs) (VB: [DataSource.vb](./VB/Prevent Group from Collapsing/DataSource.vb))
+* [MainPage.xaml](./CS/Prevent Group from Collapsing/MainPage.xaml) (VB: [MainPage.xaml](./VB/Prevent Group from Collapsing/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/Prevent Group from Collapsing/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/Prevent Group from Collapsing/MainPage.xaml))
+<!-- default file list end -->
 # How to Prevent Group Rows from being Collapsed
 
 
